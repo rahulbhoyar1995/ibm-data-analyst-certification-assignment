@@ -9,7 +9,7 @@ Welcome to my IBM Data Analyst Certification Assignment repository! This reposit
 - [Description](#description)
 - [Contents](#contents)
 - [Skills Demonstrated](#skills-demonstrated)
-- Execution
+- [Execution](#Execution)
 
 ## Description
 
